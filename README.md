@@ -7,8 +7,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miewliie&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats) <br>
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=miewliie)](https://git.io/streak-stats) <br>
-
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=miewliie)](https://git.io/streak-stats) <br> -->
  </div>
 <!---
 miewliie/miewliie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
