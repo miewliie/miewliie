@@ -5,7 +5,7 @@
  ❤ I’m currently learning & building something in Python
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miewliie&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats) <br>
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miewliie&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats) <br> -->
   
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=miewliie)](https://git.io/streak-stats) <br> -->
   
