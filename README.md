@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/qUdLYpPZJkljYmhLoX/giphy.gif" width="150px"/>
 
 👩🏽‍💻 Hi, I’m Aphinya Phothiphan (Miew)<br>
- ❤ I’m currently learning & building something in Python
+ ❤ I’m currently learning & building something in Python and ReactJS.
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miewliie&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats) <br> -->
